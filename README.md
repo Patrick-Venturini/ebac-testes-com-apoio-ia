@@ -18,7 +18,7 @@ O objetivo foi avaliar como a IA pode auxiliar na análise de requisitos, identi
 
 ## Artefatos
 
-- [EBAC - Historia do Usuario + IA.pdf](docs/EBAC%20-%20Historia%20do%20Usuario%20%2B%20IA.pdf?raw=1)
+- [EBAC - Historia do Usuario + IA.pdf](docs/EBAC%20-%20Historia%20do%20Usuario%20%2B%20IA.pdf?)
   - História de usuário
   - Regras de negócio
   - Pendências
@@ -26,7 +26,7 @@ O objetivo foi avaliar como a IA pode auxiliar na análise de requisitos, identi
   - Estratégia de testes
   - Análise de riscos
 
-- [EBAC - Mini plano de testes.pdf](docs/EBAC%20-%20Mini%20plano%20de%20testes.pdf?raw=1)
+- [EBAC - Mini plano de testes.pdf](docs/EBAC%20-%20Mini%20plano%20de%20testes.pdf?)
   - Objetivo
   - Escopo
   - Tipos de teste
